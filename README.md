@@ -1,11 +1,11 @@
 # Personalized-Video-Assistance-Provider
 
 Datasets:
-1.
-This project scans a dataset of trending videos provided by kaggle and builds a predictive model using machine learning techniques like OLS(ordinary least squares) method and multiple regression.
 
-2.
-It fetches real time youtube data using the Youtube Data V3 API and builds the dataset. The dataset exported in csv format is fed to python using pandas library. The tool used for this is Jupyter Notebook. Data cleaning, Data visualization, Data normalization and Data prediction are acheived.
+
+1. This project scans a dataset of trending videos provided by kaggle and builds a predictive model using machine learning techniques like OLS(ordinary least squares) method and multiple regression.
+
+2. It fetches real time youtube data using the Youtube Data V3 API and builds the dataset. The dataset exported in csv format is fed to python using pandas library. The tool used for this is Jupyter Notebook. Data cleaning, Data visualization, Data normalization and Data prediction are acheived.
 
 
 System:
