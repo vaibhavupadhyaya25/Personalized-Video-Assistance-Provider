@@ -3,8 +3,8 @@ from botocore.client import Config
 import csv
 
 
-ACCESS_KEY_ID = 'AKIAI***********A'
-ACCESS_SECRET_KEY = 'Df2vHDcfA***********MqY52Ccus/P'
+ACCESS_KEY_ID = '***'
+ACCESS_SECRET_KEY = '****'
 BUCKET_NAME = 'redditdatamajor'
 FILE_NAME = 'RedditRealtimeDat.csv';
 
